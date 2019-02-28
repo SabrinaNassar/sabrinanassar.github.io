@@ -3,3 +3,9 @@ html, body {
   padding: 0;
   font-family: 'Montserrat', sans-serif;
 }
+html p {
+  margin: 40;
+  padding:40;
+  font-family: 'Montserrat', sans-serif;
+}
+  
